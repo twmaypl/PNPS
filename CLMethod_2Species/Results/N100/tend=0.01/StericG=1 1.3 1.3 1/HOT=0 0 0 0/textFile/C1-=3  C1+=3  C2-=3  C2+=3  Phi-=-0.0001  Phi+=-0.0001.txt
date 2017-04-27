@@ -1,0 +1,90 @@
+time = 0 
+relative err of Conc = 2.778860e+00 
+dEdt = -2.759515e+03 
+relative error of Current = 9.616671e+01 
+dCdt = 4.724997e+02 
+Current_total = 3.239925e-10 
+Energy_err = 1.176903e+01 
+Energy_t = 1.176903e+01 
+ 
+time = 1.000000e-03 
+relative err of Conc = 3.257964e-01 
+dEdt = -1.946100e+03 
+relative error of Current = 6.798970e+01 
+dCdt = 2.364281e+02 
+Current_total = -2.639456e-10 
+Energy_err = -5.753045e-01 
+Energy_t = 1.119372e+01 
+ 
+time = 2.000000e-03 
+relative err of Conc = 1.914513e-01 
+dEdt = -1.586717e+03 
+relative error of Current = 5.550485e+01 
+dCdt = 1.575071e+02 
+Current_total = -2.693383e-10 
+Energy_err = -4.406282e-01 
+Energy_t = 1.075309e+01 
+ 
+time = 3.000000e-03 
+relative err of Conc = 1.359293e-01 
+dEdt = -1.372797e+03 
+relative error of Current = 4.805496e+01 
+dCdt = 1.181323e+02 
+Current_total = -3.831023e-11 
+Energy_err = -3.710738e-01 
+Energy_t = 1.038202e+01 
+ 
+time = 4.000000e-03 
+relative err of Conc = 1.054352e-01 
+dEdt = -1.227062e+03 
+relative error of Current = 4.297854e+01 
+dCdt = 9.447323e+01 
+Current_total = -5.532931e-10 
+Energy_err = -3.266317e-01 
+Energy_t = 1.005539e+01 
+ 
+time = 5.000000e-03 
+relative err of Conc = 8.608974e-02 
+dEdt = -1.119690e+03 
+relative error of Current = 3.923954e+01 
+dCdt = 7.875586e+01 
+Current_total = -5.457141e-10 
+Energy_err = -2.950255e-01 
+Energy_t = 9.760362e+00 
+ 
+time = 6.000000e-03 
+relative err of Conc = 7.254073e-02 
+dEdt = -1.036509e+03 
+relative error of Current = 3.634451e+01 
+dCdt = 6.758448e+01 
+Current_total = 1.190778e-10 
+Energy_err = -2.708074e-01 
+Energy_t = 9.489555e+00 
+ 
+time = 7.000000e-03 
+relative err of Conc = 6.290998e-02 
+dEdt = -9.693059e+02 
+relative error of Current = 3.400603e+01 
+dCdt = 5.916949e+01 
+Current_total = 1.435383e-10 
+Energy_err = -2.520831e-01 
+Energy_t = 9.237472e+00 
+ 
+time = 8.000000e-03 
+relative err of Conc = 5.574495e-02 
+dEdt = -9.133145e+02 
+relative error of Current = 3.205910e+01 
+dCdt = 5.256403e+01 
+Current_total = 2.469123e-10 
+Energy_err = -2.370493e-01 
+Energy_t = 9.000423e+00 
+ 
+time = 9.000000e-03 
+relative err of Conc = 4.969653e-02 
+dEdt = -8.659293e+02 
+relative error of Current = 3.041925e+01 
+dCdt = 4.736365e+01 
+Current_total = 3.815874e-10 
+Energy_err = -2.237628e-01 
+Energy_t = 8.776660e+00 
+ 

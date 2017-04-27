@@ -1,0 +1,10 @@
+time = 0 
+relative err of Conc = 0 
+dEdt = 2.679885e+41 
+relative error of Current = 2.125246e+28 
+dCdt = 2.448426e+32 
+Current_total = 1.181881e+25 
+Energy_err = 5136934960791500 
+Energy_t = 5136934960791500 
+ 
+time = 1.000000e-04 

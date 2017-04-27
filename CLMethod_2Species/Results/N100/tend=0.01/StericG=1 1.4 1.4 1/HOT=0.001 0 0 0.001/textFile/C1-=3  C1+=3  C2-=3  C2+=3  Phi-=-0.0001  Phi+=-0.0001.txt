@@ -1,0 +1,234 @@
+time = 0 
+relative err of Conc = 3.789201e+01 
+dEdt = 9.377518e-06 
+relative error of Current = 3.295460e-07 
+dCdt = 8.892861e+08 
+Current_total = -1.160444e-14 
+Energy_err = 1.318335e+01 
+Energy_t = 1.318335e+01 
+ 
+time = 4.260947e-08 
+relative err of Conc = 2.320650e+07 
+dEdt = 1462352296365316 
+relative error of Current = 4.157989e+10 
+dCdt = 5.446324e+14 
+Current_total = -2.572725e+02 
+Energy_err = 5.568008e-02 
+Energy_t = 1.323903e+01 
+ 
+time = 8.521894e-08 
+relative err of Conc = 7763060053386451968 
+dEdt = 3.231842e+33 
+relative error of Current = 1.380859e+22 
+dCdt = 1.821910e+26 
+Current_total = -1.099836e+15 
+Energy_err = 1.969328e+05 
+Energy_t = 1.969460e+05 
+ 
+time = 1.278284e-07 
+relative err of Conc = 8.698401e+41 
+dEdt = 1.372836e+68 
+relative error of Current = 1.547301e+45 
+dCdt = 2.041424e+49 
+Current_total = -3.091431e+38 
+Energy_err = 2.694029e+22 
+Energy_t = 2.694029e+22 
+ 
+time = 1.704379e-07 
+relative err of Conc = 1.092099e+88 
+dEdt = 1.935046e+137 
+relative error of Current = 1.942702e+91 
+dCdt = 2.563043e+95 
+Current_total = -7.877127e+84 
+Energy_err = 1.352467e+69 
+Energy_t = 1.352467e+69 
+ 
+time = 2.130473e-07 
+relative err of Conc = 1.721501e+180 
+dEdt = 3.827746e+275 
+relative error of Current = 3.062331e+183 
+dCdt = 4.040185e+187 
+Current_total = -2.482327e+177 
+Energy_err = 8.526624e+161 
+Energy_t = 8.526624e+161 
+ 
+time = 2.556568e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = Inf 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 2.982663e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 3.408757e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 3.834852e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 4.260947e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 4.687041e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 5.113136e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 5.539231e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 5.965325e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 6.391420e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 6.817515e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 7.243610e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 7.669704e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 8.095799e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 8.521894e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 8.947988e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 9.374083e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 9.800178e-07 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 1.022627e-06 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 
+time = 1.065237e-06 
+relative err of Conc = NaN 
+dEdt = NaN 
+relative error of Current = NaN 
+dCdt = NaN 
+Current_total = NaN 
+Energy_err = NaN 
+Energy_t = NaN 
+ 

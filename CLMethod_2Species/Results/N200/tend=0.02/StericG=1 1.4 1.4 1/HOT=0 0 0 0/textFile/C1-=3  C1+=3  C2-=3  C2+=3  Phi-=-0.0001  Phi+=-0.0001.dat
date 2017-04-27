@@ -1,0 +1,2 @@
+TITLE = "2 species of PNP-Steric with high order term" 
+VARIABLES = "X" "Conc1" "Conc2" "phi" "Current_x""I_ext" "I_PNP" "CURRENT" "ENERGY" "

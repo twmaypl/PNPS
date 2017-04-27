@@ -1,0 +1,450 @@
+time = 0 
+relative err of Conc = 2.331480e+00 
+dEdt = -1.001944e+04 
+relative error of Current = 1.495455e+02 
+dCdt = 4.047299e+06 
+Current_total = -5.164434e-07 
+Energy_err = 6.710236e+01 
+Energy_t = 6.710236e+01 
+ 
+time = 1.000000e-03 
+relative err of Conc = 2.915856e-01 
+dEdt = -7.765061e+03 
+relative error of Current = 1.104358e+02 
+dCdt = 1.213752e+06 
+Current_total = 5.552597e-08 
+Energy_err = -4.929652e+00 
+Energy_t = 6.217271e+01 
+ 
+time = 2.000000e-03 
+relative err of Conc = 1.775962e-01 
+dEdt = -6.588890e+03 
+relative error of Current = 9.288946e+01 
+dCdt = 9.369037e+04 
+Current_total = 1.646011e-07 
+Energy_err = -4.132132e+00 
+Energy_t = 5.804058e+01 
+ 
+time = 3.000000e-03 
+relative err of Conc = 1.324399e-01 
+dEdt = -5.781541e+03 
+relative error of Current = 8.192694e+01 
+dCdt = 8.702427e+03 
+Current_total = 1.682174e-07 
+Energy_err = -3.622057e+00 
+Energy_t = 5.441852e+01 
+ 
+time = 4.000000e-03 
+relative err of Conc = 1.076490e-01 
+dEdt = -5.165218e+03 
+relative error of Current = 7.406154e+01 
+dCdt = 2.592847e+05 
+Current_total = 3.021255e-07 
+Energy_err = -3.234388e+00 
+Energy_t = 5.118414e+01 
+ 
+time = 5.000000e-03 
+relative err of Conc = 9.237634e-02 
+dEdt = -4.665818e+03 
+relative error of Current = 6.791882e+01 
+dCdt = 2.999221e+03 
+Current_total = 1.326932e-07 
+Energy_err = -2.926889e+00 
+Energy_t = 4.825725e+01 
+ 
+time = 6.000000e-03 
+relative err of Conc = 8.156273e-02 
+dEdt = -4.247939e+03 
+relative error of Current = 6.290564e+01 
+dCdt = 8.989586e+02 
+Current_total = 1.141392e-07 
+Energy_err = -2.666987e+00 
+Energy_t = 4.559026e+01 
+ 
+time = 7.000000e-03 
+relative err of Conc = 7.352040e-02 
+dEdt = -3.890388e+03 
+relative error of Current = 5.867690e+01 
+dCdt = 1.052648e+04 
+Current_total = 9.188488e-08 
+Energy_err = -2.444079e+00 
+Energy_t = 4.314618e+01 
+ 
+time = 8.000000e-03 
+relative err of Conc = 6.719251e-02 
+dEdt = -3.579980e+03 
+relative error of Current = 5.503309e+01 
+dCdt = 4.209533e+03 
+Current_total = 8.584476e-08 
+Energy_err = -2.248048e+00 
+Energy_t = 4.089813e+01 
+ 
+time = 9.000000e-03 
+relative err of Conc = 6.207265e-02 
+dEdt = -3.307342e+03 
+relative error of Current = 5.184106e+01 
+dCdt = 4.789404e+04 
+Current_total = 1.504886e-08 
+Energy_err = -2.074943e+00 
+Energy_t = 3.882319e+01 
+ 
+time = 1.000000e-02 
+relative err of Conc = 5.809942e-02 
+dEdt = -3.064626e+03 
+relative error of Current = 4.898970e+01 
+dCdt = 1.944453e+04 
+Current_total = 6.365651e-08 
+Energy_err = -1.927773e+00 
+Energy_t = 3.689542e+01 
+ 
+time = 1.100000e-02 
+relative err of Conc = 5.456262e-02 
+dEdt = -2.847750e+03 
+relative error of Current = 4.642934e+01 
+dCdt = 2.053492e+03 
+Current_total = 5.912475e-08 
+Energy_err = -1.791208e+00 
+Energy_t = 3.510421e+01 
+ 
+time = 1.200000e-02 
+relative err of Conc = 5.136573e-02 
+dEdt = -2.653436e+03 
+relative error of Current = 4.411779e+01 
+dCdt = 1.352635e+05 
+Current_total = 3.515146e-08 
+Energy_err = -1.663496e+00 
+Energy_t = 3.344071e+01 
+ 
+time = 1.300000e-02 
+relative err of Conc = 4.900463e-02 
+dEdt = -2.476921e+03 
+relative error of Current = 4.200371e+01 
+dCdt = 4.782649e+01 
+Current_total = 4.329163e-08 
+Energy_err = -1.559738e+00 
+Energy_t = 3.188097e+01 
+ 
+time = 1.400000e-02 
+relative err of Conc = 4.654005e-02 
+dEdt = -2.317377e+03 
+relative error of Current = 4.007187e+01 
+dCdt = 2.292979e+04 
+Current_total = 4.371054e-08 
+Energy_err = -1.453685e+00 
+Energy_t = 3.042729e+01 
+ 
+time = 1.500000e-02 
+relative err of Conc = 4.467281e-02 
+dEdt = -2.171450e+03 
+relative error of Current = 3.828203e+01 
+dCdt = 5.796712e+02 
+Current_total = 3.501040e-08 
+Energy_err = -1.366932e+00 
+Energy_t = 2.906036e+01 
+ 
+time = 1.600000e-02 
+relative err of Conc = 4.287778e-02 
+dEdt = -2.037997e+03 
+relative error of Current = 3.662517e+01 
+dCdt = 2.370801e+03 
+Current_total = 2.877804e-08 
+Energy_err = -1.283700e+00 
+Energy_t = 2.777666e+01 
+ 
+time = 1.700000e-02 
+relative err of Conc = 4.111814e-02 
+dEdt = -1.916084e+03 
+relative error of Current = 3.509594e+01 
+dCdt = 5.726148e+04 
+Current_total = 1.160067e-07 
+Energy_err = -1.202888e+00 
+Energy_t = 2.657377e+01 
+ 
+time = 1.800000e-02 
+relative err of Conc = 3.975293e-02 
+dEdt = -1.803601e+03 
+relative error of Current = 3.365802e+01 
+dCdt = 4.677440e+02 
+Current_total = 2.700744e-08 
+Energy_err = -1.136313e+00 
+Energy_t = 2.543746e+01 
+ 
+time = 1.900000e-02 
+relative err of Conc = 3.837813e-02 
+dEdt = -1.699978e+03 
+relative error of Current = 3.231786e+01 
+dCdt = 6.930986e+02 
+Current_total = 2.243809e-08 
+Energy_err = -1.071064e+00 
+Energy_t = 2.436639e+01 
+ 
+time = 2.000000e-02 
+relative err of Conc = 3.707281e-02 
+dEdt = -1.604291e+03 
+relative error of Current = 3.106235e+01 
+dCdt = 1.111511e+03 
+Current_total = 2.045794e-08 
+Energy_err = -1.010955e+00 
+Energy_t = 2.335544e+01 
+ 
+time = 2.100000e-02 
+relative err of Conc = 3.581890e-02 
+dEdt = -1.515758e+03 
+relative error of Current = 2.988337e+01 
+dCdt = 1.874440e+03 
+Current_total = 1.834363e-08 
+Energy_err = -9.553161e-01 
+Energy_t = 2.240012e+01 
+ 
+time = 2.200000e-02 
+relative err of Conc = 3.447825e-02 
+dEdt = -1.434057e+03 
+relative error of Current = 2.878216e+01 
+dCdt = 5.028509e+04 
+Current_total = 7.138912e-08 
+Energy_err = -8.998722e-01 
+Energy_t = 2.150025e+01 
+ 
+time = 2.300000e-02 
+relative err of Conc = 3.345518e-02 
+dEdt = -1.357861e+03 
+relative error of Current = 2.773442e+01 
+dCdt = 1.352529e+02 
+Current_total = 1.513072e-08 
+Energy_err = -8.556706e-01 
+Energy_t = 2.064458e+01 
+ 
+time = 2.400000e-02 
+relative err of Conc = 3.232926e-02 
+dEdt = -1.287052e+03 
+relative error of Current = 2.674850e+01 
+dCdt = 4.464344e+03 
+Current_total = 2.904384e-08 
+Energy_err = -8.104919e-01 
+Energy_t = 1.983409e+01 
+ 
+time = 2.500000e-02 
+relative err of Conc = 3.121792e-02 
+dEdt = -1.221225e+03 
+relative error of Current = 2.582106e+01 
+dCdt = 5.198053e+04 
+Current_total = 1.278418e-08 
+Energy_err = -7.675571e-01 
+Energy_t = 1.906653e+01 
+ 
+time = 2.600000e-02 
+relative err of Conc = 3.028646e-02 
+dEdt = -1.159653e+03 
+relative error of Current = 2.493410e+01 
+dCdt = 1.614741e+02 
+Current_total = 1.091915e-08 
+Energy_err = -7.308671e-01 
+Energy_t = 1.833566e+01 
+ 
+time = 2.700000e-02 
+relative err of Conc = 2.930384e-02 
+dEdt = -1.102182e+03 
+relative error of Current = 2.409708e+01 
+dCdt = 7.678004e+03 
+Current_total = 3.620915e-09 
+Energy_err = -6.942494e-01 
+Energy_t = 1.764141e+01 
+ 
+time = 2.800000e-02 
+relative err of Conc = 2.835095e-02 
+dEdt = -1.048495e+03 
+relative error of Current = 2.330280e+01 
+dCdt = 8.882221e+02 
+Current_total = 5.598958e-09 
+Energy_err = -6.597012e-01 
+Energy_t = 1.698171e+01 
+ 
+time = 2.900000e-02 
+relative err of Conc = 2.751515e-02 
+dEdt = -9.981356e+02 
+relative error of Current = 2.254673e+01 
+dCdt = 1.303382e+02 
+Current_total = 7.985574e-09 
+Energy_err = -6.291538e-01 
+Energy_t = 1.635256e+01 
+ 
+time = 3.000000e-02 
+relative err of Conc = 2.664058e-02 
+dEdt = -9.509850e+02 
+relative error of Current = 2.182844e+01 
+dCdt = 2.140818e+03 
+Current_total = 1.103215e-08 
+Energy_err = -5.987409e-01 
+Energy_t = 1.575382e+01 
+ 
+time = 3.100000e-02 
+relative err of Conc = 2.577469e-02 
+dEdt = -9.068392e+02 
+relative error of Current = 2.114509e+01 
+dCdt = 2.882626e+04 
+Current_total = 1.191472e-08 
+Energy_err = -5.695712e-01 
+Energy_t = 1.518425e+01 
+ 
+time = 3.200000e-02 
+relative err of Conc = 2.507714e-02 
+dEdt = -8.652363e+02 
+relative error of Current = 2.049319e+01 
+dCdt = 2.570948e+01 
+Current_total = 6.389965e-09 
+Energy_err = -5.451145e-01 
+Energy_t = 1.463913e+01 
+ 
+time = 3.300000e-02 
+relative err of Conc = 2.426761e-02 
+dEdt = -8.262287e+02 
+relative error of Current = 1.987492e+01 
+dCdt = 4.268121e+04 
+Current_total = 2.369272e-08 
+Energy_err = -5.189744e-01 
+Energy_t = 1.412016e+01 
+ 
+time = 3.400000e-02 
+relative err of Conc = 2.363314e-02 
+dEdt = -7.893900e+02 
+relative error of Current = 1.927750e+01 
+dCdt = 1.470583e+02 
+Current_total = 5.442862e-09 
+Energy_err = -4.974264e-01 
+Energy_t = 1.362273e+01 
+ 
+time = 3.500000e-02 
+relative err of Conc = 2.293732e-02 
+dEdt = -7.547075e+02 
+relative error of Current = 1.870977e+01 
+dCdt = 6.683364e+03 
+Current_total = 5.332793e-09 
+Energy_err = -4.752226e-01 
+Energy_t = 1.314751e+01 
+ 
+time = 3.600000e-02 
+relative err of Conc = 2.225965e-02 
+dEdt = -7.220404e+02 
+relative error of Current = 1.816691e+01 
+dCdt = 3.399878e+02 
+Current_total = 4.855621e-09 
+Energy_err = -4.540732e-01 
+Energy_t = 1.269344e+01 
+ 
+time = 3.700000e-02 
+relative err of Conc = 2.167226e-02 
+dEdt = -6.911528e+02 
+relative error of Current = 1.764659e+01 
+dCdt = 2.138267e+01 
+Current_total = 4.223501e-09 
+Energy_err = -4.353965e-01 
+Energy_t = 1.225804e+01 
+ 
+time = 3.800000e-02 
+relative err of Conc = 2.104238e-02 
+dEdt = -6.620187e+02 
+relative error of Current = 1.714915e+01 
+dCdt = 1.315957e+03 
+Current_total = 2.612925e-09 
+Energy_err = -4.164012e-01 
+Energy_t = 1.184164e+01 
+ 
+time = 3.900000e-02 
+relative err of Conc = 2.044818e-02 
+dEdt = -6.345008e+02 
+relative error of Current = 1.667230e+01 
+dCdt = 1.473241e+04 
+Current_total = -2.147917e-09 
+Energy_err = -3.986654e-01 
+Energy_t = 1.144297e+01 
+ 
+time = 4.000000e-02 
+relative err of Conc = 1.993155e-02 
+dEdt = -6.084166e+02 
+relative error of Current = 1.621504e+01 
+dCdt = 1.462628e+03 
+Current_total = 2.063555e-09 
+Energy_err = -3.829400e-01 
+Energy_t = 1.106003e+01 
+ 
+time = 4.100000e-02 
+relative err of Conc = 1.936920e-02 
+dEdt = -5.837592e+02 
+relative error of Current = 1.577628e+01 
+dCdt = 3.100273e+04 
+Current_total = 1.911566e-08 
+Energy_err = -3.667675e-01 
+Energy_t = 1.069326e+01 
+ 
+time = 4.200000e-02 
+relative err of Conc = 1.890210e-02 
+dEdt = -5.603400e+02 
+relative error of Current = 1.535449e+01 
+dCdt = 1.346146e+03 
+Current_total = 2.199924e-09 
+Energy_err = -3.528397e-01 
+Energy_t = 1.034043e+01 
+ 
+time = 4.300000e-02 
+relative err of Conc = 1.837314e-02 
+dEdt = -5.381802e+02 
+relative error of Current = 1.495056e+01 
+dCdt = 1.217520e+04 
+Current_total = -4.795374e-10 
+Energy_err = -3.381284e-01 
+Energy_t = 1.000230e+01 
+ 
+time = 4.400000e-02 
+relative err of Conc = 1.792566e-02 
+dEdt = -5.171230e+02 
+relative error of Current = 1.456031e+01 
+dCdt = 9.454730e+02 
+Current_total = 2.470386e-09 
+Energy_err = -3.253096e-01 
+Energy_t = 9.676987e+00 
+ 
+time = 4.500000e-02 
+relative err of Conc = 1.749311e-02 
+dEdt = -4.971030e+02 
+relative error of Current = 1.418519e+01 
+dCdt = 3.049200e+01 
+Current_total = 2.314811e-09 
+Energy_err = -3.130900e-01 
+Energy_t = 9.363897e+00 
+ 
+time = 4.600000e-02 
+relative err of Conc = 1.705427e-02 
+dEdt = -4.780823e+02 
+relative error of Current = 1.382423e+01 
+dCdt = 1.684588e+01 
+Current_total = 2.118737e-09 
+Energy_err = -3.010694e-01 
+Energy_t = 9.062828e+00 
+ 
+time = 4.700000e-02 
+relative err of Conc = 1.658797e-02 
+dEdt = -4.600479e+02 
+relative error of Current = 1.347708e+01 
+dCdt = 2.030898e+04 
+Current_total = 2.033258e-09 
+Energy_err = -2.888766e-01 
+Energy_t = 8.773951e+00 
+ 
+time = 4.800000e-02 
+relative err of Conc = 1.621311e-02 
+dEdt = -4.428566e+02 
+relative error of Current = 1.314324e+01 
+dCdt = 5.965014e+02 
+Current_total = -2.480966e-09 
+Energy_err = -2.785858e-01 
+Energy_t = 8.495365e+00 
+ 
+time = 4.900000e-02 
+relative err of Conc = 1.583156e-02 
+dEdt = -4.264811e+02 
+relative error of Current = 1.282061e+01 
+dCdt = 2.492917e+01 
+Current_total = 1.759769e-09 
+Energy_err = -2.684303e-01 
+Energy_t = 8.226935e+00 
+ 
